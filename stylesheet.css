@@ -1,11 +1,17 @@
-h1{
- /*Gantikan warna ke #ff000*/
- color:#ff0000;
-}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 body {
   background-color: lightblue;
 }
-p{
- /*Gantikan warna ke #ff000*/
- color:#f0000;
-}
+</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+
+<p>This page has a light blue background color!</p>
+
+</body>
+</html>
