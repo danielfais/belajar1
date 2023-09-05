@@ -2,7 +2,9 @@ h1{
  /*Gantikan warna ke #ff000*/
  color:#ff0000;
 }
-
+body {
+  background-color: lightblue;
+}
 p{
  /*Gantikan warna ke #ff000*/
  color:#f0000;
