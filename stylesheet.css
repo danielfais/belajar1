@@ -1,17 +1,36 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: lightblue;
+li{
+  color:aquamarine
 }
-</style>
-</head>
-<body>
 
-<h1>Hello World!</h1>
+.selected{
+  color:bisque
+}
 
-<p>This page has a light blue background color!</p>
 
-</body>
-</html>
+li {
+ list style: none;
+ float:left;
+ padding:33px 20px;
+}
+
+.header {
+  background-color :lightskyblue;
+  color: black;
+  height: 90px;
+}
+  
+.header-logo {
+  font-size:36px; 
+  float: left;
+  padding:20px 40px; 
+}
+
+.main {
+  background-color :lightblue;
+  height: 600px;
+}
+
+.footer {
+  background-color :stategray;
+  height: 270px;
+}
